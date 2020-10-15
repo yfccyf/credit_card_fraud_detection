@@ -11,6 +11,8 @@
 
 **Packages:** imblearn, sklearn, pandas, numpy, matplotlib, seaborn
 
+[**"Threshold Moving" link**](https://towardsdatascience.com/how-to-deal-with-imbalanced-classification-without-re-balancing-the-data-8a3c02353fe3)
+
 ## Data Overview
 The dataset contains transactions made by credit cards that occurred in two days, where we have 492 frauds out of 284,807 transactions, which makes the dataset highly unbalanced - the positive class (frauds) account for only 0.172% of all transactions. It contains 28 numerical input variables which are the result of a PCA transformation, and 2 original data: time elapsed and amount. The purpose of this project is to identify fraudulent credit card transactions
 
