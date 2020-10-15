@@ -66,10 +66,13 @@ It is not absolutely necessary to rebalance the data through resampling to attac
 
 I tried 3 classifiers with the threshold moving strategy
 * Logistic Regression
+
 ![](images/threshold1.png)
 
 * Random Forest Classifier
+
 ![](images/threshold2.png)
 
 * Histogram-based Gradient Boosting classification tree
+
 ![](images/threshold3.png)
