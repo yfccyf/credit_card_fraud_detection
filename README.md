@@ -1,5 +1,5 @@
 # Credit card fraud detection - imbalanced classification
-* Created models to detect credit card fraud by developing 2 approaches that addresses the issues of imbalanced data classification
+* Created models to detect credit card fraud by developing 2 approaches that address the issues of imbalanced data classification
 * Rebalanced the dataset by undersampling the majority class, oversampling the minority class or synthesizing new data
 * Tested and evaluated multiple classification algorithms combined with distinct under/over-sampling techniques
 * Attacked the imbalance issue by implementing threshold-moving technique, and tested different classification algorithms
